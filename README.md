@@ -2,5 +2,5 @@
 A simple Discord Music Bot using Python
 
 # Requirements
-**youtube_dl** and **discord** pip packages
+**youtube_dl** and **discord** pip packages  
 ffmpeg in system directory
