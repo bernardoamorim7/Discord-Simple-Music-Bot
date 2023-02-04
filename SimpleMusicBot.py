@@ -254,8 +254,7 @@ async def on_message(message):
                                     '?queue - Shows queue\n'
                                     '?clear - Clears queue\n'
                                     '?shuffle - Shuffles queue\n'
-                                    '?help - Shows this message\n\n'
-                                    'If you need more help, contact me through GitHub @bernardoamorim7'
+                                    '?help - Shows this message\n'
                                     )
     
     
